@@ -1,0 +1,20 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text>app
+--
+billista[bil]</help_text><element><id>UMLClass</id><coordinates><x>710</x><y>110</y><w>100</w><h>30</h></coordinates><panel_attributes>SimpleClass</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>400</x><y>120</y><w>170</w><h>210</h></coordinates><panel_attributes>Bil
+--
+fabrikat:string
+Color:string
+lager:int
+--
+__init__constructor()
+setFabrikat(str)
+getFabrikat():str
+getLager():int
+getColor():str</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>70</x><y>120</y><w>170</w><h>210</h></coordinates><panel_attributes>app
+--
+billista[bil]
+looping:boolean
+--
+main()
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>230</x><y>210</y><w>190</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
+m1=0..n</panel_attributes><additional_attributes>170;10;10;10</additional_attributes></element></diagram>
