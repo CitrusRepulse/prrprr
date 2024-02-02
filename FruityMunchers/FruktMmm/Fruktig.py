@@ -4,7 +4,7 @@
 import random
 
 #Skapar en Tuple
-frukter = ("Banan", "Melon", "Kiwi", "Citron")
+frukter = ("Banan", "Melon", "Kiwi", "Citron", "Papaja", "Äpple")
 looping = True
 
 #Definerar python funktioner
